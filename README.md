@@ -12,6 +12,8 @@ WeCheat：keyancaijizhousz
 
 address: Kunming Institute of Botany, Chinese Academy of Sciences, 132 lanhei Road, Panlong District, Kunming
 
+[![GitHub followers](https://img.shields.io/github/followers/Bioinfor?label=Follow&style=social)](https://github.com/Rishit-dagli)
+
 ## <img src="https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/3.gif" width="50">A little more about me
 
 I'm [zhouxiaozhao](www.zhouxiaozhao.cn) , A graduate student from [KIB](http://www.kib.ac.cn/),I’m a novice. I mainly share some of my learning process to prevent forgetting. I’m also welcome to learn and exchange with you.
