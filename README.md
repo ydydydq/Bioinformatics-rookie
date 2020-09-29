@@ -16,4 +16,4 @@ address: Kunming Institute of Botany, Chinese Academy of Sciences, 132 lanhei Ro
 
 I'm [zhouxiaozhao](www.zhouxiaozhao.cn) , A graduate student from [KIB](http://www.kib.ac.cn/),I’m a novice. I mainly share some of my learning process to prevent forgetting. I’m also welcome to learn and exchange with you.
 
-<img src="https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/2.gif" width="200">
+<img src="https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/2.gif" width="800">
