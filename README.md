@@ -14,7 +14,7 @@ address: Kunming Institute of Botany, Chinese Academy of Sciences, 132 lanhei Ro
 
 [![GitHub followers](https://img.shields.io/github/followers/Bioinformatics-rookie?label=Follow&style=social)](https://github.com/Bioinformatics-rookie)
 [![简书](https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/5.jpg)](https://www.jianshu.com/u/e774b57cc676)
-[![blog](https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/6.png)](https://www.zhouxiaozhao.cn/)
+[![blog](https://blog.ydydydq.cn/images/logo.png](https://blog.ydydydq.cn/)
 
 
 ## <img src="https://github.com/Bioinformatics-rookie/Bioinformatics-rookie/blob/master/img/3.gif" width="50">A little more about me
